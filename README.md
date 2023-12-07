@@ -1,3 +1,6 @@
+# Makers Course Content
+Practice using curl commands to query a simple Flask application.
+
 # Flask HTML Web & Database Project Starter
 
 This is a starter project for you to use to start your Flask HTML web & database
